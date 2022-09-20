@@ -10,3 +10,4 @@
 *.6 filter=lfs diff=lfs merge=lfs -text
 *.0 filter=lfs diff=lfs merge=lfs -text
 *.sh filter=lfs diff=lfs merge=lfs -text
+/parallel filter=lfs diff=lfs merge=lfs -text
