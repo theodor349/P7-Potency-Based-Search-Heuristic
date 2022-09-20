@@ -1,0 +1,12 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.xml filter=lfs diff=lfs merge=lfs -text
+/MCC2022/AirplaneLD-PT-0010/equiv_col filter=lfs diff=lfs merge=lfs -text
+/MCC2022/AirplaneLD-PT-0010/instance filter=lfs diff=lfs merge=lfs -text
+/MCC2022/AirplaneLD-PT-0010/iscolored filter=lfs diff=lfs merge=lfs -text
+*.pnml filter=lfs diff=lfs merge=lfs -text
+/binaries/ae732f1f filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.2 filter=lfs diff=lfs merge=lfs -text
+*.6 filter=lfs diff=lfs merge=lfs -text
+*.0 filter=lfs diff=lfs merge=lfs -text
+*.sh filter=lfs diff=lfs merge=lfs -text
