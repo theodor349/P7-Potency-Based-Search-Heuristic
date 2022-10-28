@@ -19,3 +19,6 @@
 *.csproj filter=lfs diff=lfs merge=lfs -text
 *.cs filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+/pipeline/archiver filter=lfs diff=lfs merge=lfs -text
+/pipeline/run-model filter=lfs diff=lfs merge=lfs -text
+/pipeline/start filter=lfs diff=lfs merge=lfs -text
