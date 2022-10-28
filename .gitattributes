@@ -22,3 +22,10 @@
 /pipeline/archiver filter=lfs diff=lfs merge=lfs -text
 /pipeline/run-model filter=lfs diff=lfs merge=lfs -text
 /pipeline/start filter=lfs diff=lfs merge=lfs -text
+/pipeline.old/archiver filter=lfs diff=lfs merge=lfs -text
+/pipeline.old/run-model filter=lfs diff=lfs merge=lfs -text
+/pipeline.old/start filter=lfs diff=lfs merge=lfs -text
+/pipeline/run filter=lfs diff=lfs merge=lfs -text
+/pipeline/scripts/archiver filter=lfs diff=lfs merge=lfs -text
+/pipeline/scripts/run-model filter=lfs diff=lfs merge=lfs -text
+/pipeline/scripts/start filter=lfs diff=lfs merge=lfs -text
