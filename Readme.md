@@ -1,4 +1,5 @@
-# P7-Potency-Based-Search-Heuristic
+# P7 - Potency Based Search Heuristic
+The Report outlining the Potency Based Search Heuristic is a valiable as `Report.psf`
 
 ## Reproducability
 All data used to compile all plots and tables can be found under the folder `Latex Files`.
