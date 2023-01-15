@@ -1,4 +1,4 @@
-# P7 - Potency Based Search Heuristic
+# Potency Based Search Heuristic
 The Report outlining the Potency Based Search Heuristic is a valiable as `Report.pdf`
 
 ## Reproducability
